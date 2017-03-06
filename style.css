@@ -1,0 +1,68 @@
+header {
+  display: block;
+  background-color: purple;
+  text-align: center;
+  height: 150px;
+  border-bottom: 10px solid red;
+
+}
+
+.element, .element2 {
+  display: inline-block;
+  height: 200px;
+  width: 300px;
+  background-color:white;
+  margin-left: 75px;
+  margin-top: 50px;
+  vertical-align: middle;
+  border: 10px solid #6495ED;
+  border-top: 20px solid #6495ED;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px black;
+
+}
+
+section {
+  display: block;
+  height: 800px;
+  background-color: #87CEFA;
+  margin-top: 100px;
+
+}
+
+h1 {
+  padding-top: 50px;
+  color:white;
+}
+
+.html, .css, .linux {
+  text-decoration: line-through;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+.lol {
+  font-size: 20px;
+  margin-top: 100px;
+  font-weight: normal;
+}
+
+p {
+  font-weight: bold;
+}
+
+img {
+  height: 50px;
+  float: right;
+}
+
+#ok {
+  text-decoration: none;
+}
+
+.imglol {
+  float: left;
+  height: 300px;
+}
